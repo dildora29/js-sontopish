@@ -249,5 +249,8 @@ h1 {
   .between {
     font-size: 1.6rem;
     top: 14rem;
+    text-align: center;
+    line-height: 1.3;
+    width: 90%;
   }
 }
